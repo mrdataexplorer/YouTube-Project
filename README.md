@@ -1,4 +1,4 @@
-# Capstone-project
+# YouTube-project
 
 Executive summary:
 
