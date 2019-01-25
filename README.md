@@ -1,4 +1,4 @@
-# YouTube-project
+# YouTube Project
 
 Executive summary:
 
