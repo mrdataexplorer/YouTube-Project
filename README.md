@@ -2,4 +2,4 @@
 
 Executive summary:
 
-This repo contains the analysis of trending youtube video dataset from Kaggle.
+This repo contains the analysis and models of the trending YouTube video dataset from [Kaggle](https://www.kaggle.com/datasnaek/youtube-new).
